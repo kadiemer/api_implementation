@@ -7,7 +7,7 @@ This API was build using Python and the Django web framework utilizing a SQLite 
 3. Install and upgrade pip "python -m pip install --upgrade pip"
 4. Install requirements in virtual environment with "pip install -r requirements.txt"
 5. Migrate: "python manage.py migrate", this will set up the SQLite database as well.
-6. Run: Server: "python manage.py runserver"
+6. Run Server: "python manage.py runserver"
 7. With your favorite API Client, such as Insomnia, perform "GET" and "POST" requests to "http:/localhost:8000/api/alerts/"
 
 ## Run Tests
